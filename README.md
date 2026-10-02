@@ -1,0 +1,1 @@
+Esta linguagem de programação foi feita para: AIs, Velocidade de processamento, Fisica avançada, Iluminação avançada, e Previsões. Ainda a TigerFlash está incompleta com as bibliotecas imcompletas, e o arquivo TigerFlash_Basics_IDE.cpp não é uma IDE e sim o interpretador e procurador de arquivos .tf, obrigado!
