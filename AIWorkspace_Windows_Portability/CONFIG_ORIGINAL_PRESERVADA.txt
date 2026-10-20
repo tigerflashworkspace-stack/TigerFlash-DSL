@@ -1,0 +1,13 @@
+Configuração original preservada no código:
+- MULTITHREAD = 1 (padrão)
+- N_AGENTS = 10
+- N_REPLACE = 8
+- WORLD_RENDER_RADIUS = 28.0f
+- FLAG_MSAA_4X_HINT | FLAG_WINDOW_RESIZABLE
+- InitWindow(1280, 720, "AI Workspace")
+- SetWindowMinSize(1100, 620)
+- SetTargetFPS(60)
+- GenTextureMipmaps + TEXTURE_FILTER_TRILINEAR para a fonte customizada
+- Mesmo cérebro neural, física, recompensas, modos e arquivo de memória
+
+Não foi feita otimização que sacrifique a qualidade. Somente a macro MULTITHREAD agora pode ser sobrescrita na linha de compilação; o padrão continua ligado.
